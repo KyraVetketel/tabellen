@@ -1,0 +1,95 @@
+header{
+    background-color:aquamarine;
+    width: 100%;
+    height: 200px;
+}
+footer{
+    background-color:#7999d4;
+    width: 100%;
+    height: 100px;
+}
+
+#cel1 {
+background-color: #ffffcc
+}
+
+#cel2 {
+    background-color: #ffff99
+    }
+
+#cel3 {
+    background-color: #ffff66
+    }
+
+#cel4 {
+    background-color: #ffff33
+    }
+
+#cel5 {
+    background-color: #ffff00;
+    }
+
+#cel6 {
+    background-color: #ccffff;
+    }
+
+#cel7 {
+    background-color: #ccffcc;
+    }
+
+#cel8 {
+    background-color: #ccff99;
+    }
+
+#cel9 {
+    background-color: #ccff66;
+    }
+
+#cel10 {
+    background-color: #ccff33;
+    }
+
+#cel11 {
+    background-color: #ccff00;
+    }
+
+#cel12 {
+    background-color: #99ffff;
+    }
+
+#cel13 {
+    background-color: #99ffcc;
+    }
+
+#cel14 {
+    background-color: #99ff99;
+    }
+#cel15 {
+    background-color: #99ff99;
+    }
+ #cel16 {
+    background-color: #99ff99;
+    }
+
+
+#bga1 {
+    background-color:grey;
+}
+#bga2 {
+    background-color:purple;
+}#bga3 {
+    background-color:turquoise;
+}#bga4 {
+    background-color:blue;
+}
+
+#bgb1 {
+    background-color:lightblue;
+}
+#bgb2 {
+    background-color:lightcoral;
+}#bgb3 {
+    background-color:lightcyan;
+}#bgb4 {
+    background-color:lightgreen;
+}
